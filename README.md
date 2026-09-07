@@ -44,7 +44,7 @@ The project includes SQL analysis such as:
 The objective of this project is to analyze sales data and create an interactive dashboard that helps understand sales performance and business trends.
 
 ## Dashboard Preview 
-![Sales Performance Dashboard] (Sales_Performance_Dashboard.jpeg)
+![Sales Performance Dashboard](Sales_Performance_Dashboard.jpeg)
 
 ## 📁 Project File
 
